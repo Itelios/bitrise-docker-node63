@@ -1,6 +1,6 @@
-# Bitrise Docker NodeJS 4 LTS Image
+# Bitrise Docker NodeJS 6.3.0 Image
 
-Just a simple image that have NodeJS 4 LTS built-in to allow script step have node command or script execution
+Just a simple image that have NodeJS 6.3.0 built-in to allow script step have node command or script execution
 
 # MAINTAINER
 
